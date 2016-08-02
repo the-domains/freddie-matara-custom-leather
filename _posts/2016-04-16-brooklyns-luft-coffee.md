@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T20:04:22.533Z'
+datePublished: '2016-08-02T20:04:22.537Z'
 sourcePath: _posts/2016-04-16-brooklyns-luft-coffee.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/luft-coffee-brooklyn'
@@ -17,7 +17,7 @@ keywords:
   - baristas
 related: []
 author: []
-dateModified: '2016-08-02T20:04:19.878Z'
+dateModified: '2016-08-02T20:04:21.001Z'
 title: Brooklyn's Luft Coffee
 app_links: []
 publisher:
